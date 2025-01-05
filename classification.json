@@ -1,0 +1,17 @@
+[
+    {
+      "position": 1,
+      "team": "FC Barcelona",
+      "points": 45
+    },
+    {
+      "position": 2,
+      "team": "Real Madrid",
+      "points": 42
+    },
+    {
+      "position": 3,
+      "team": "Atlético de Madrid",
+      "points": 41
+    }
+  ]
